@@ -24,3 +24,6 @@ He wants to make an app that would help him manage the articles that being poste
 - Tests.
 - Organized and well written git commit history.
 - E2E tests.
+
+# Task Deadline
+- Monday Morning 13/07/2020.
