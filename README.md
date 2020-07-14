@@ -16,6 +16,7 @@ He wants to make an app that would help him manage the articles that being poste
 - Delete article.
 - Only Samir can approve/delete articles.
 - When an author view all articles, they see their own articles first. 
+- Edit README to include the reqired steps to run your application.
 
 # Stack
 - Choosing the tech stack is up to you.
