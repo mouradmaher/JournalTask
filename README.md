@@ -27,4 +27,4 @@ He wants to make an app that would help him manage the articles that being poste
 - E2E tests.
 
 # Task Deadline
-- Monday Morning 13/07/2020.
+- Monday Morning 20/07/2020.
